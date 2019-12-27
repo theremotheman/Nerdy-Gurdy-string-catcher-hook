@@ -1,4 +1,4 @@
-# Nerdy-Gurdy-string-catcher-hook
+# Nerdy-Gurdy string catcher hook
 
 STL view
 
